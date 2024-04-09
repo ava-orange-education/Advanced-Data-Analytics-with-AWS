@@ -1,2 +1,2 @@
-# Data-Analytics-on-AWS-Joseph-Conley
-Data Analytics on AWS Joseph Conley, published by Orange, AVA™
+# Advanced Data Analytics with AWS
+Advanced Data Analytics with AWS, published by Orange, AVA™
