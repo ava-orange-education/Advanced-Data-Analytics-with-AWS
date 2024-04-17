@@ -1,0 +1,17 @@
+{
+    "Version": "2012-10-17",
+    "Statement": [
+        {
+            "Sid": "Statement1",
+            "Effect": "Allow",
+            "Action": "iam:PassRole",
+            "Resource": "arn:aws:iam::598578551199:role/AWSGlueNotebooks",
+            "Condition": {
+                "StringEquals": {
+                    "iam:PassedToService": "glue.amazonaws.com"
+                }
+            }
+        }
+    ]
+}
+
